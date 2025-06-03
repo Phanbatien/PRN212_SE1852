@@ -12,3 +12,18 @@ D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP3_ExtensionMe
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.pdb
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.genruntimeconfig.cache
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\ref\OOP3_ExtensionMethod.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.exe
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.deps.json
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.runtimeconfig.json
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\bin\Debug\net9.0\OOP3_ExtensionMethod.pdb
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.AssemblyInfo.cs
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.sourcelink.json
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\refint\OOP3_ExtensionMethod.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.pdb
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\OOP3_ExtensionMethod.genruntimeconfig.cache
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP3_ExtensionMethod\obj\Debug\net9.0\ref\OOP3_ExtensionMethod.dll

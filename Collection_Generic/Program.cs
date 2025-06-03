@@ -52,7 +52,7 @@ ParttimeEmployee pe1 = new ParttimeEmployee()
     Id = 5,
     Name = "Name 5",
     IdCard = "987",
-    WorkingHour =3,
+    WorkingHour = 3,
     Birthday = new DateTime(1995, 2, 2)
 };
 employees.Add(pe1);
@@ -60,28 +60,53 @@ employees.Add(pe1);
 //Câu 2: Xuất toàn bộ thông tin nhân sự (R)
 Console.OutputEncoding = Encoding.UTF8;
 Console.WriteLine("Thông tin toàn bộ nhân sự:");
-//cách 1: Dùng Expression body (Lambda Expression)
+// cách 1: Dùng Expression body (Lambda Expression)
 employees.ForEach(e => Console.WriteLine(e));
-//Cách 2: Dùng for thông thường (ko dùng =>)
+// Cách 2: Dùng for thông thường (ko dùng =>)
 Console.WriteLine("------Cách for thông thường------");
-foreach(var e in employees)
+foreach (var e in employees)
 {
     Console.WriteLine(e);
-}    
+}
+
 //Câu 3: Sắp xếp nhân viên theo năm sinh tăng dần
-//cũng là R-Read/Retrieve
+// cũng là R-Read/Retrieve
 for (int i = 0; i < employees.Count; i++)
 {
-    for (int j = i+1; j < employees.Count; j++)
+    for (int j = i + 1; j < employees.Count; j++)
     {
-        Employee ei=employees[i];
-        Employee ej=employees[j];
-        if(ei.Birthday<ej.Birthday)
+        Employee ei = employees[i];
+        Employee ej = employees[j];
+        if (ei.Birthday < ej.Birthday)
         {
             employees[i] = ej;
             employees[j] = ei;
-        }    
-    }           
+        }
+    }
 }
 Console.WriteLine("---------Employees sau khi sắp xếp:");
+employees.ForEach(e => Console.WriteLine(e));
+
+//Câu 4: Update nhân viên
+int updateId = 3;
+
+Employee employeeToUpdate = employees.FirstOrDefault(e => e.Id == updateId);
+Console.WriteLine($"Employee ID {updateId} before update:");
+Console.WriteLine(employeeToUpdate);
+
+employeeToUpdate.Name = "Updated Name 3";
+employeeToUpdate.IdCard = "789123";
+employeeToUpdate.Birthday = new DateTime(1988, 1, 26);
+
+Console.WriteLine($"Employee ID {updateId} after update:");
+Console.WriteLine(employeeToUpdate);
+
+//Câu 5: Delete Nhân viên
+int deleteId = 2;
+Employee employeeToDelete = employees.FirstOrDefault(e => e.Id == deleteId);
+Console.WriteLine($"Employee ID {deleteId} before delete:");
+Console.WriteLine(employeeToDelete);
+employees.Remove(employeeToDelete);
+Console.WriteLine($"Employee ID {deleteId} has been deleted.");
+Console.WriteLine("Employees after deletion:");
 employees.ForEach(e => Console.WriteLine(e));

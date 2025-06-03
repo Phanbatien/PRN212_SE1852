@@ -12,3 +12,18 @@ D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.pdb
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.genruntimeconfig.cache
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\ref\OOP4_Dictionary.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.exe
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.deps.json
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.runtimeconfig.json
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\bin\Debug\net9.0\OOP4_Dictionary.pdb
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfoInputs.cache
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.AssemblyInfo.cs
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.sourcelink.json
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\refint\OOP4_Dictionary.dll
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.pdb
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\OOP4_Dictionary.genruntimeconfig.cache
+C:\Users\DTV\source\repos\PRN212_SE1852\OOP4_Dictionary\obj\Debug\net9.0\ref\OOP4_Dictionary.dll
